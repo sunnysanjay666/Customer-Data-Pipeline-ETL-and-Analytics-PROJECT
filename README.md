@@ -1,4 +1,4 @@
-Got it! Let me give you a **clear, detailed, and structured explanation** of the project so you can easily use it in a report or presentation.
+
 
 ---
 
@@ -80,6 +80,4 @@ The project follows a **basic ETL workflow**:
 
 ---
 
-If you want, I can **also make a simple visual diagram of the ETL pipeline** for PPT so it looks professional and clear in just **one slide**.
 
-Do you want me to do that?
